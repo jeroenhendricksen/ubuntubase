@@ -10,3 +10,7 @@ Mon Sep 28 10:30:02 CEST 2020
 ```
 
 It shows the current date and time for the `Europe/Amsterdam` timezone.
+
+## Update
+
+Update to keep GitHub actions active
