@@ -1,6 +1,7 @@
 FROM ubuntu:20.04
 
 # Set the default timezone
+# Keep active
 ENV TZ Europe/Amsterdam
 
 # Improve build speed by specifying the fastly CDN for apt-repository
